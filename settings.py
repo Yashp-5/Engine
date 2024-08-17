@@ -1,5 +1,5 @@
-SEARCH_KEY = "823bea96335db4762"
-SEARCH_ID = "AIzaSyAwXEjzKnTI35ksp8wWklJ2kOP1gC1Xcuo"
+SEARCH_KEY = "insert your own"
+SEARCH_ID = "insert your own"
 COUNTRY = "in"
 
 SEARCH_URL= "https://www.googleapis.com/customsearch/v1?key={key}&cx={cx}&q={query}&start={start}&gl=" +COUNTRY
