@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 from settings import *
 
-with open("C:\\Users\\puroh\\Desktop\\Engine\\blacklist.txt") as f:
+with open(".\blacklist.txt") as f:
     domains = set(f.read().split("\n"))
 
 def tracker_urls(row):
